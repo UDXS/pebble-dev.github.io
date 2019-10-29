@@ -72,7 +72,7 @@ Note: you can skip this part if you're already a Pebble user. Instead, you shoul
 * The watch asks to pair. Press the upper right button. Tap *Pair* on the phone.
 * If the Pebble has an old firmware, it will check for updates. Tap *Continue*. Keep the watch on the charging cable, and close to the phone. This will take a few minutes to complete, after that the watch will reboot.
 * In the Pebble app, choose the language of the menus, notifications and messages on the watch.
-* To get get notifications on your Pebble, tap *Open settings screen*. Enable *Pebble*. Tap *Allow*.
+* To get notifications on your Pebble, tap *Open settings screen*. Enable *Pebble*. Tap *Allow*.
 * If you have a Pebble Time or newer: To enable health, tap *Enable*. Then, tap *Agree*.
 * If you have a Pebble Time or newer: Choose your settings for health, then tap *Continue*, then enter your info and tap *Complete*.
 * Choose a watchface. then tap the arrow in the upper right corner.
